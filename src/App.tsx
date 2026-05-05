@@ -29,6 +29,7 @@ const TASKFORCES = [
   "Support","Vehicle Referential","Dealer Referential","Pricing Integration",
   "Data Quality","Ramu","Eretail","User Intelligence","Data Visualization",
   "Fabric","Catalyst","Tyre Dating","Analytics","Data Transformation","Customer Success",
+  "E3",
 ];
 
 type Resource = {
